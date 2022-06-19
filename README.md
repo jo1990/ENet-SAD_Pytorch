@@ -1,7 +1,7 @@
-# ENet-SAD Pytorch
+# SCNN-SAD Pytorch
  Pytorch implementation of "[Learning Lightweight Lane Detection CNNs by Self Attention Distillation (ICCV 2019)](https://arxiv.org/abs/1908.00821)"
 
-<img src="./image/ENet-SAD_paper_model_architecture.png" alt="drawing" width="750"/>
+<img src="./image/SCNNSAD.PNG" alt="drawing" width="750"/>
 
 
 
